@@ -1,0 +1,281 @@
+.App {
+  text-align: center;
+}
+
+.Navigation{
+  background-color: white;
+
+  height:70px;
+
+}
+
+.navbar-light .navbar-nav .nav-link {
+   color: black;
+}
+.nav-item{
+  margin-right: 4%;
+  white-space: nowrap;
+  color : black;
+}
+.paypalbrand ,.navbar-light .navbar-brand {
+  color : black;
+ margin-right:12% ;
+}
+.buttons{
+  margin-left: 15%;
+  width: 100%;
+
+}
+.lastnavitem{
+  margin-right: 0px;
+}
+.login , .signup{
+  border-radius: 25px;
+  width:30%;
+  
+}
+.login{
+margin-right: 10px;
+}
+.videofirstcontent{
+  background-color: #0097E0;
+ 
+}
+.firstvideo{
+  width: 100%;
+  object-fit: cover;
+  z-index: -1;
+
+  left:0px;
+  position: absolute;
+  
+ 
+  bottom: 0;
+}
+.firstcontent{
+  padding-top: 5%;
+  justify-content: center;
+  align-content: center;
+ 
+}
+.firstcontent h1{
+  color:whitesmoke;
+  font-size: 2.5rem;
+  line-height: 3rem;
+  font-family: PayPalSansBig-Light,Helvetica Neue,Arial,sans-serif;
+  font-weight: 400;
+  width: 70%;
+  text-align: center;
+  margin: auto;
+}
+.buttonsignup{
+  color:blue;
+  border-radius: 25px;
+  width:30%;
+  
+}
+.videoclass{
+  position: relative;
+  height: 215px;
+ margin-top: 100px;
+ 
+}
+.firstcontentbutton{
+  margin-top: 30px;
+}
+.businesssol{
+  background-color: #0d3685;
+  color:whitesmoke;
+  padding-bottom: 40px;
+}
+.businesssol p{
+  padding-top: 20px;
+  font-size: 1.57142857rem;
+}
+.buttonsignup2{
+  border-radius: 25px;
+}
+.details{
+padding: 0px;
+
+}
+.details h1{
+   
+  color: #00A8EA;
+  text-align: left;
+
+}
+
+.images{
+  padding: 0px;
+}
+.details p{
+  padding-top: 20px;
+  width: 85%;
+  text-align: left;
+  font-weight: 300px;
+}
+
+.shopimg{
+  max-width: 90%;
+  max-height: 350px;
+}
+.navi{
+  background-color: white;
+  box-shadow: 0px 5px 10px rgba(166, 167, 168, 0.354025);
+}
+.shopbtn{
+  padding-top: 12px;
+    padding-bottom: 12px;
+    background-color: transparent;
+    color: #0070ba;
+    border: 1px solid #0070ba;
+    box-shadow: none;
+    border-radius: 25px;
+    width:45%;
+    
+}
+.feature2details p{
+  width:70%;
+}
+.shopbutton{
+ padding-top: 15px;
+  text-align: left;
+}
+.feature1{
+  padding-top: 80px;
+  margin-bottom: 70px;
+  margin: 0;
+}
+.feature2{
+  background-color: #f5f7fa;
+  margin-top: 40px;
+}
+#x2{
+  padding-bottom: 3px;
+
+}
+.input2{
+  margin-bottom: 30px;
+}
+.loginbox{
+  border:10px solid #0d3685;
+  margin-top: 100px;
+  padding-bottom: 40px;
+}
+.details{
+  color:#0d3685;
+  font-style: italic;
+ margin-bottom: 20px;
+ margin-top: 20px;
+}
+.detailsrow{
+  background-color: #0097E0;
+  color:white;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  margin-bottom: 30px;
+}
+.submit{
+  background-color: #0097E0;
+  width:20%;
+}
+.inputbox{
+ 
+  height:40px;
+  width:40%;
+border : 4px solid #0097E0;
+}
+.sidebar{
+  width:20%;
+  box-shadow: 0px 5px 10px rgba(166, 167, 168, 0.354025);
+  background-color: #00A8EA;
+  color: white ;
+  margin-left: 10px;
+  padding-left: 30px;
+  margin-right: 0px;
+}
+.sidebarcollapse{
+  width:10%;
+  box-shadow: 0px 5px 10px rgba(166, 167, 168, 0.354025);
+  background-color: #00A8EA;
+  color: white ;
+  margin-left: 10px;
+  padding-left: 30px;
+  margin-right: 0px;
+}
+.sidebarcollapse .sidea{
+  visibility: hidden;
+}
+.sidebarcontent{
+  
+  
+  margin: auto;
+  z-index: 10;
+}
+.siderow{
+ text-align: center;
+ justify-content: center;
+}
+.successloginnavi{
+margin:auto;
+width:70%;
+margin-right: 10%;
+margin-left: 21%;
+}
+.siderow{
+  margin:0px;
+  margin-top:30px;
+  margin-bottom: 30px;
+  
+  justify-content: center;
+}
+.invertbtn{
+padding-top: 10%;
+}
+.side1{
+  width:100%;
+  justify-content: flex-end;
+  
+}
+.personimage{
+  border-radius: 50%;
+  width:50%;
+}
+.profileimg{
+  height:70%;
+  margin-bottom: 10%;
+  margin-top: 10%;
+}
+.successrow{
+  margin:0;
+  
+}
+.sideicon{
+  justify-content: flex-end;
+}
+.borders{
+  border: 2px solid white;
+}
+
+.sidea{
+  font-size: 20px;
+  margin-right: 15px;
+}
+.Myaccount{
+  margin-top: 120px;
+  justify-content: center;
+ 
+}
+.accountbox{
+  background-color: #0097E0;
+  color:white;
+  width:80%;
+  box-shadow: 0px 5px 10px rgba(166, 167, 168, 0.354025);
+}
+.myaccountrow{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.No{
+  visibility: hidden;
+}
