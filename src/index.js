@@ -5,7 +5,7 @@ import App from './app/component/App';
 
 ReactDOM.render(
   <React.StrictMode>
-   
+  {email = user.email}
       <App />
     
   </React.StrictMode>,
